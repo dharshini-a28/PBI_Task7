@@ -61,17 +61,8 @@ Add screenshots of your Power BI report here so visitors can preview the dashboa
 4. If useful, add further screenshots for detailed report pages.
 <img width="575" height="324" alt="Screenshot 2026-10-25 204248" src="https://github.com/user-attachments/assets/a1c696ac-404f-44e1-9d39-8ef36fd05886" />
 
-Example Markdown:
 
-```markdown
-![Power BI Dashboard Overview](screenshots/dashboard-overview.png)
-*Figure 1: Overview of the Power BI dashboard.*
 
-![Detailed Dashboard View](screenshots/dashboard-details.png)
-*Figure 2: Detailed view of dashboard visualizations.*
-```
-
-Replace these example image paths with the actual screenshot filenames you upload. Do not leave placeholder images in the published repository.
 
 ## 🔍 Analysis Opportunities
 
